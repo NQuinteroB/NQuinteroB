@@ -1,7 +1,6 @@
 Welcome to my profile 👋
-
 <br>
-Nice to meet you! Check my profile, contact me and lets's get a coffee 
+Nice to meet you! Check my profile, contact me and lets's get a coffee :coffee:
 
 :cyclone: You need to know... I don't stay still
 <br>
