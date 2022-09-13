@@ -2,7 +2,7 @@ Welcome to my profile 👋
 <br>
 Nice to meet you! Check my profile, contact me and lets's get a coffee :coffee:
 
-:cyclone: You need to know... I don't stay still
+:cyclone: Something about me: I don't stay still
 <br>
 🌱 I’m looking forward to expand my knowledge in Ruby, HTML, CSS, javaScript
 <!--
