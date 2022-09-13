@@ -1,5 +1,11 @@
-### Hi there 👋
+Welcome to my profile 👋
 
+<br>
+Nice to meet you! Check my profile, contact me and lets's get a coffee 
+
+:cyclone: You need to know... I don't stay still
+<br>
+🌱 I’m looking forward to expand my knowledge in Ruby, HTML, CSS, javaScript
 <!--
 **NQuinteroB/NQuinteroB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
