@@ -8,6 +8,10 @@
 <p>💕 Love to teach and share my knowledge and experience in Wev Development</p>
 <p>💬 Ask me about career change from Fashion Design to Web Dev, migration and entrepreneurship</p>
 
+<h2>Languages and Tools</h2>
+
+<a href="https://skillicons.dev/icons?i=js,html,css,figma"></a>
+[![My Skills](https://skillicons.dev/icons?i=ruby,js,html,css,rails,sass,figma,bootstrap,git)](https://skillicons.dev)
 <h3>Check my Portfolio here 👇🏻</h3>
 
 <!--
