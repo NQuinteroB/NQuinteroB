@@ -8,6 +8,8 @@
 <p>💕 Love to teach and share my knowledge and experience in Wev Development</p>
 <p>💬 Ask me about career change from Fashion Design to Web Dev, migration and entrepreneurship</p>
 
+<h3>Check my Portfolio here 👇🏻</h3>
+
 <!--
 **NQuinteroB/NQuinteroB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
