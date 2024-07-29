@@ -4,7 +4,7 @@
 
 <p>:cyclone: Something about me: I don't stay still</p>
 
-<p>🌱 I’m looking forward to expand my knowledge in Web Development front and backend</p>
+<p>🌱 I’m looking forward to expand my knowledge in Web Development</p>
 <p>💕 Love to teach and share my knowledge and experience in Wev Development</p>
 <p>💬 Ask me about career change from Fashion Design to Web Dev, migration and entrepreneurship</p>
 
